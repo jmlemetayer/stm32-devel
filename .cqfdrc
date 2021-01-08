@@ -1,0 +1,6 @@
+[project]
+org="stm32f4"
+name="devel"
+
+[build]
+command="make"
